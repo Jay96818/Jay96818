@@ -46,11 +46,9 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- Detection Lab
+- Intrusion Detection Lab Using Snort
 - SOC Automation Project
-- Isolated Home Lab
-- Malware Analysis
+- Isolated Malware Analysis Home Lab
 - Honeypot implementation
 - Firewall Configuration
 - Traffic Analysis Using Wireshark
-- IDS Implementation Using Snort
